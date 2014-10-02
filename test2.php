@@ -16,6 +16,6 @@ $log->pushHandler(new Monolog\Handler\StreamHandler('app.log', Monolog\Logger::W
 // remark for git
 //
 
-$log->addWarning('hernja bolshaja');
+$log->addWarning('log test');
 
 
