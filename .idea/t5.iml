@@ -11,6 +11,8 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/couchdb" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/inflector" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/mongodb" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/mongodb-odm" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/graylog2/gelf-php" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/guzzle/guzzle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/php-code-coverage" />
@@ -23,6 +25,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/log" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/raven/raven" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/ruflin/elastica" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/console" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/event-dispatcher" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/yaml" />
     </content>
@@ -47,7 +50,9 @@
           <root url="file://$MODULE_DIR$/vendor/doctrine/couchdb" />
           <root url="file://$MODULE_DIR$/vendor/symfony/event-dispatcher" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/console" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/mongodb-odm" />
           <root url="file://$MODULE_DIR$/vendor/ruflin/elastica" />
           <root url="file://$MODULE_DIR$/vendor/aws/aws-sdk-php" />
           <root url="file://$MODULE_DIR$/vendor/phpunit/phpunit" />
@@ -62,6 +67,7 @@
           <root url="file://$MODULE_DIR$/vendor/phpunit/php-file-iterator" />
           <root url="file://$MODULE_DIR$/vendor/psr/log" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/mongodb" />
           <root url="file://$MODULE_DIR$/vendor/guzzle/guzzle" />
           <root url="file://$MODULE_DIR$/vendor/phpunit/php-token-stream" />
         </CLASSES>
@@ -72,7 +78,9 @@
           <root url="file://$MODULE_DIR$/vendor/doctrine/couchdb" />
           <root url="file://$MODULE_DIR$/vendor/symfony/event-dispatcher" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/console" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/mongodb-odm" />
           <root url="file://$MODULE_DIR$/vendor/ruflin/elastica" />
           <root url="file://$MODULE_DIR$/vendor/aws/aws-sdk-php" />
           <root url="file://$MODULE_DIR$/vendor/phpunit/phpunit" />
@@ -87,6 +95,7 @@
           <root url="file://$MODULE_DIR$/vendor/phpunit/php-file-iterator" />
           <root url="file://$MODULE_DIR$/vendor/psr/log" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/mongodb" />
           <root url="file://$MODULE_DIR$/vendor/guzzle/guzzle" />
           <root url="file://$MODULE_DIR$/vendor/phpunit/php-token-stream" />
         </SOURCES>
